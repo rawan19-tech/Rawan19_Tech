@@ -1,129 +1,122 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=radhikamalpani1702&label=Profile%20views&color=0e75b6&style=flat" alt="radhikamalpani1702" /> </p>
 
-![Radhika Malpani (2)](https://github.com/RadhikaMalpani1702/RadhikaMalpani1702/assets/163530398/ccfabad9-f3b1-47fe-b612-2ac18da6b240)
+<div align="center">
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Radhika Malpani</h1>
-<h3 align="center">A Passionate Java Full Stack/Web developer | Software Engineer Enthusiast</h3>
+<img src="anime-profile.png" width="100%" alt="Anime coding banner"/>
+
+# ✨ Hi, I'm Rawan! 💜
+
+### 🌸 Information Systems Student | Aspiring Software Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=AD75E8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%92%9C;Learning+something+new+every+day+%F0%9F%8C%B1;Turning+ideas+into+code+%E2%9C%A8;One+step+closer+to+my+dreams+%F0%9F%8C%B8" alt="Typing SVG" />
 
 <br/>
 
-<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+🌷 *Learning, creating, and growing one line of code at a time.*
 
+<br/>
 
-- 🔭 I’m currently working as *Open Source Contributor*
+[![GitHub followers](https://img.shields.io/github/followers/rawan19-tech?style=for-the-badge&color=bc8fdb&labelColor=fff0fa)](https://github.com/rawan19-tech)
+[![Profile Views](https://komarev.com/ghpvc/?username=rawan19-tech&style=for-the-badge&color=e6a8d7)](https://github.com/rawan19-tech)
 
-- 🌱 I’m currently learning **Full Stack Java Development | MERN**
-
-- 💬 Ask me about *Web development, Core Java, OOPS*
-
-- 🌎 I know **English, Hindi, Marathi.**
-- ⚡ About Me: I'm a *Day Dreamer*
-- 📍 From **India**
-
-## Connect with me 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/radhika-malpani-30832b22a/)](https://www.linkedin.com/in/radhika-malpani-30832b22a/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://www.leetcode.com/radhika_malpani)](https://www.leetcode.com/radhika_malpani)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/radhikamalpani)](https://www.hackerrank.com/radhikamalpani)
-[![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/radhika_1702)](https://www.codechef.com/users/radhika_1702)
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-<p align="center">
-
-<details>
-<summary>Languages & Tools</summary> <br>
-
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Core Java](https://img.shields.io/badge/Core%20Java-CC2927?style=for-the-badge&logo=Core%20Java&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br>
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-
-</details>
-
-<details>
-<summary>Frameworks I've Worked on:</summary> <br>
-
-   ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
-   ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-   ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-   ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-</details>
-    
-<details>
-<summary>Databases</summary> <br>
-  
-![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-CC2927?style=for-the-badge&logo=oracle&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-
-</details>
-
-
-    
-<details>
-<summary>Application and Tools:</summary> <br>
-
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-    ![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-
-  </br>
-  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-    ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) 
-    ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-</details>
-</p>
-
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
 </div>
 
+---
 
+## 🌸 About Me
 
+- 🎓 I'm an **Information Systems student**.
+- 💻 I'm passionate about programming and technology.
+- 🌱 Currently learning **Python, Databases, and Software Development**.
+- ✨ I enjoy learning new things and turning ideas into practical projects.
+- 🎯 My goal is to become a skilled software developer.
+- ☕ Coffee, creativity, and a little bit of code make my day!
 
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## 💻 Languages & Technologies
 
-<br />
+### 🌷 Programming Languages
 
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=radhikamalpani1702&show_icons=true&locale=en&theme=ambient_gradient" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=radhikamalpani1702&theme=ambient_gradient" alt="Streak Stats"/>
-</td>
-</tr>
-</table>
-</br>
-<p align="center">
-  <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
+<p align="left">
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<p align="center">
-  <a href="https://buymeacoffee.com/radhikamalpani" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
-  </a>
+### 🎨 Web Development
+
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### 🛠️ Tools
+
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🛒 Smart Shared Shopping List & AI Recipe Assistant
+
+<img align="right" width="120" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
+
+An Android application designed to make household shopping easier and smarter!
+
+**✨ Main Features:**
+- 🛍️ Shared shopping lists for household members.
+- 🔄 Real-time synchronization between users.
+- ✅ Track required and purchased items.
+- 🍳 AI-powered recipe suggestions based on available ingredients.
+- 📝 Automatically add missing ingredients to the shopping list.
+
+<sub>🚧 Status: Currently in the planning and development stage.</sub>
+
+<br clear="right"/>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rawan19-tech&show_icons=true&theme=buefy&hide_border=true&border_radius=15" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawan19-tech&layout=compact&theme=buefy&hide_border=true&border_radius=15" />
+
+<br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=rawan19-tech&theme=buefy&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+## 🌈 A Little Reminder
+
+<div align="center">
+
+### "Every expert was once a beginner." 🌱
+
+Keep learning, keep growing, and never stop believing in yourself! 💗
+
+<img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="180"/>
+
+### Thanks for visiting my profile! 💜
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>
