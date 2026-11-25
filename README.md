@@ -112,7 +112,6 @@ An Android application that makes household shopping smarter and easier.
 
 <br clear="right"/>
 
-### 💻 Programming & Database Projects
 
 ### 🏠 Home Inventory Management System
 
