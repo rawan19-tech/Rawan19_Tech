@@ -114,8 +114,18 @@ An Android application that makes household shopping smarter and easier.
 
 ### 💻 Programming & Database Projects
 
-A collection of practical programming exercises and database projects using different technologies.
+### 🏠 Home Inventory Management System
 
+An Oracle Database project designed to manage household inventory.
+
+**Key Features:**
+- 📦 Manage household products.
+- 🔢 Track available quantities.
+- 📅 Monitor product expiration dates.
+- 🔔 Identify low-stock products.
+- ⚠️ Track products approaching expiration.
+
+**Technology:** Oracle Database, SQL
 ---
 
 ## 📊 GitHub Statistics
