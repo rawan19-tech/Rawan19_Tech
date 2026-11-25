@@ -40,6 +40,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
@@ -50,6 +51,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
@@ -100,7 +102,7 @@
 
 <img align="right" width="130" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
 
-An Android application that makes household shopping smarter and easier.
+An Android application designed to make household shopping smarter and easier.
 
 **✨ Key Features:**
 
@@ -112,13 +114,12 @@ An Android application that makes household shopping smarter and easier.
 
 <br clear="right"/>
 
-
-
 ### 📦 Inventory Management System
 
 An Oracle Database project designed to manage and track inventory operations efficiently.
 
-**Key Features:**
+**✨ Key Features:**
+
 - 📦 Manage products and categories.
 - 🔢 Track available stock quantities.
 - 📥 Record incoming and outgoing inventory.
@@ -127,8 +128,6 @@ An Oracle Database project designed to manage and track inventory operations eff
 - 📊 Track inventory movements and stock levels.
 
 **Technology:** Oracle Database, SQL
-
----
 
 ---
 
